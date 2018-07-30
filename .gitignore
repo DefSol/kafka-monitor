@@ -2,3 +2,8 @@
 .DS_Store
 build/
 logs/
+.classpath
+.project
+.settings
+.vscode/
+out/

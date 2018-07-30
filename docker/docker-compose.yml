@@ -1,0 +1,10 @@
+version: '2.2'
+
+services:
+
+  kafka-monitor:
+    image: kafka-monitor:local
+    ports:
+      - 8000:8000
+      - 8778:8778
+
